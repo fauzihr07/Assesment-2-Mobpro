@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Assesment 2</string>
+    <string name="app_name">WareHouse</string>
     <string name="list_kosong">Belum ada data</string>
     <string name="x_diklik">%1$s diklik!</string>
     <string name="tambah_barang">Tambah Barang</string>
@@ -14,7 +14,7 @@
     <string name="Jumlah">Jumlah Barang</string>
     <string name="invalid">invalid</string>
     <string name="opsi_lainnya">opsi lainnya</string>
-    <string name="hapus">hapus</string>
+    <string name="hapus">Hapus</string>
     <string name="pesan_hapus">Hapus Barang</string>
     <string name="tombol_hapus">Hapus</string>
     <string name="tombol_batal">Batal</string>

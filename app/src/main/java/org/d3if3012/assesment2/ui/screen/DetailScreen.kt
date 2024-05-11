@@ -164,8 +164,8 @@ fun DeleteAction(detele: () -> Unit){
             onDismissRequest = { expanded = false }
         ) {
             DropdownMenuItem(
-                text = {
-                    stringResource(R.string.hapus)
+                text = { Text(text = stringResource(id = R.string.hapus))
+
                 },
                 onClick = {
                     expanded = false
